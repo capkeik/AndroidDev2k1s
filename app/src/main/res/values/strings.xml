@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidDev2k1s</string>
+    <string name="nickname">nickname</string>
+    <string name="edit">Edit Image</string>
 </resources>
