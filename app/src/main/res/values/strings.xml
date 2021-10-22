@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidDev2k1s</string>
+    <string name="home_fragment">Home</string>
+    <string name="search_fragment">Search</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="top_bar">top bar</string>
 </resources>
